@@ -1,6 +1,10 @@
+![Flutter and dart](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
+
 # conversor_moeda
 
 A new Flutter project.
+Trabalho efetuado para a faculdade, objetivo é fazer um converso de moedas em flutter.
+Esse projeto é bem simples, mas a ideia era entender como funcionam um corversor de moedas em flutter.
 
 ## Getting Started
 
