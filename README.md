@@ -2,9 +2,9 @@
 
 # conversor_moeda
 
-A new Flutter project.
-Trabalho efetuado para a faculdade, objetivo é fazer um converso de moedas em flutter.
-Esse projeto é bem simples, mas a ideia era entender como funcionam um corversor de moedas em flutter.
+- A new Flutter project.
+- Trabalho efetuado para a faculdade, objetivo é fazer um converso de moedas em flutter.
+- Esse projeto é bem simples, mas a ideia era entender como funcionam um corversor de moedas em flutter.
 
 ## Getting Started
 
